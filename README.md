@@ -6,6 +6,7 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/monteiromanoel"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=monteiromanoel&show_icons=true&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monteiromanoel&layout=compact"/>
   
   
 </div>
