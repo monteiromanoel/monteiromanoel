@@ -1,7 +1,7 @@
 ### Hi there
 #
 <div> 
-  My name is Manoel. I`m from Brazil, graduated in Analisis and Development of Systems. Currently sudying Full Stack Development
+  My name is Manoel. I`m from Brazil, graduated in Analysis and Systems Development. Currently studying Full Stack Development
 </div>
 #
 <div style="display: inline_block" align="center">
