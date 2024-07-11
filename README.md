@@ -3,6 +3,10 @@
 <div> 
   My name is Manoel. I`m from Brazil, graduated in Analysis and Systems Development. Currently studying Full Stack Development
 </div>
+
+<div> 
+  If you want to see more about me and my projects, look at my portfolio (pt-br) <a href="https://portfolio-manoel.vercel.app/">here</a>
+</div>
 #
 <div style="display: inline_block" align="center">
   <a href="https://github.com/monteiromanoel">
